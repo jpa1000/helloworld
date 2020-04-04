@@ -43,6 +43,7 @@ $filename = 'myfile.txt';
 //$filesize = filesize( $filename );
 //echo fread( $myfile,$filesize  ) . "<br>";
 //fclose( $myfile );
+//comments line
 
 // r+ Open a file for read/write. File pointer starts at the beginning of the file
 // w+	Open a file for read/write. Erases the contents of the file or creates a new file if it doesn't exist. File pointer starts at the beginning of the file
